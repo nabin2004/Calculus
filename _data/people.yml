@@ -1,0 +1,8 @@
+instructors:
+  - name:  Dr. Jeremy Orloff 
+    profile_pic: # /_images/pp/dumbledore.jpg
+    webpage: https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2022/
+  - name:  Dr. Jennifer French Kamrin
+    profile_pic: # /_images/pp/dumbledore.jpg
+    webpage: https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2022/
+
